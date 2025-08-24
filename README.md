@@ -21,7 +21,7 @@ To execute the program you must do the following steps:
 - in the catalog with the project you must create a virtual environment by typing `python -m venv venv` in the console
 - activate the virtual environment via the command:
   - Windows: `venv/scripts/Activate`
-  - MacOS/Linus: source `venv/bin/activate`
+  - MacOS/Linux: source `venv/bin/activate`
 - install the numpy library: `pip install numpy`
 - execute the simulation via `python simulation.exe`
 
